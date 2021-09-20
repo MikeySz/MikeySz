@@ -2,7 +2,7 @@
 - 👀 I’m interested in Music, Reading, Writing, and Video Games.
 - 🌱 I’m currently learning more on Python Programming
 - 💞️ I’m looking to collaborate sometime in the future.
-- 📫 How to reach me ... I'm still setting things up, but hopefully will have a dedicated email and linkedin soon.
+- 📫 How to reach me ... Currently you can reach out to me through my University Email: Sanchem1@Kean.edu
 
 <!---
 MikeySz/MikeySz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
