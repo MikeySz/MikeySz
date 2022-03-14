@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Michael Sanchez aka @MikeySz 
+- 👋 Hi, I’m Michael Sanchez. My github username is @MikeySz 
 - 👀 I’m interested in Music, Reading, Writing, and Video Games.
-- 🌱 I’m currently learning more on Python Programming
-- 💞️ I’m looking to collaborate sometime in the future.
+- 🌱 I’m currently in my finally semester for my Bachelor's Degree in Computer Science.
 - 📫 How to reach me ... Currently you can reach out to me through my University Email: Sanchem1@Kean.edu
 
 <!---
