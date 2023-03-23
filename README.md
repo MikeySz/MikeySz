@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Michael Sanchez. My github username is @MikeySz 
 - 🌱 I’m currently in my second to last semester for my Master's Degree in Computer Inforamtion Systems at Kean University.
 - 👀 I’m interested in Music, Reading, Writing, and Video Games.
-- :smiley: Always looking forward to listening from others.
+- :smiley: Always looking forward to hearing from others.
 - 📫 How to reach me ...  MichaelDSanchezLopez@gmail.com or sanchem1@kean.edu
 
 
